@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lasrosas-rafaela.vercel.app/sitemap.xml
